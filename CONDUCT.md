@@ -42,4 +42,6 @@ may be reported by following our [reporting guidelines](https://software-carpent
 - [Software and Data Carpentry Code of Conduct](https://software-carpentry.org/conduct)
 - [Code of Conduct Reporting Guide](https://software-carpentry.org/CoC-reporting)
 
+<!--
 {% include links.md %}
+-->
